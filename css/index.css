@@ -4,7 +4,7 @@
 :root{
     --color1: rgb(253, 180, 45);
     --color2: white;
-    --color3: rgb(58, 93, 175);   
+    --color3: #2f4b8d;   
 }
 
 h1, h2, h3, h4, h5{
@@ -13,6 +13,7 @@ h1, h2, h3, h4, h5{
 
 body{
     font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
 }
 
 .navbar-inverse .navbar-brand {
