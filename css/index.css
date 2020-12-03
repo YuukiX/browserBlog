@@ -1,4 +1,37 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root{
+    --color1: rgb(253, 180, 45);
+    --color2: white;
+    --color3: rgb(58, 93, 175);   
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'PT Sans', sans-serif;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-inverse .navbar-brand {
+    color:var(--color3)
+}
+
+.navbar-inverse{
+    background-color:var(--color1);
+    color:var(--color2);
+    border-color:var(--color2)
+}
+
+.btn-primary{
+    margin-top: 5px;
+    padding-top: 10px;
+    background-color:var(--color1);
+    color:var(--color3);
+    border-color:var(--color2)
+}
 
 .navbar-nav.navbar-right:last-child {
     margin-right: 0;
