@@ -86,3 +86,8 @@ a.left-button, a.right-button {
     text-decoration: none;
     color: rgb(60, 60, 60);
 }
+
+.pages{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
