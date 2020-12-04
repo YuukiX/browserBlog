@@ -1,5 +1,5 @@
 # Piano 
-<h3>[2008 - Present]</h3>
+<h2>[2008 - Present]</h2>
 
 <br/>
 <h4> Experience Grade: A- </h4>

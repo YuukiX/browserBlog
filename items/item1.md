@@ -1,5 +1,5 @@
 # McOuat Partnership 
-<h3>[February 2018 - June 2018]</h3>
+<h2>[February 2018 - June 2018]</h2>
 <br/>
 <h4> Experience Grade: B+ </h4>
 <br/>

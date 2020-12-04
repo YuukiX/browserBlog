@@ -1,5 +1,5 @@
 # AchieveMore Education 
-<h3>[July 2016]</h3>
+<h2>[July 2016]</h2>
 <br/>
 <h4> Experience Grade: A </h4>
 <br/>
