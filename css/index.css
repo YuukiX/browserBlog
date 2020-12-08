@@ -85,6 +85,10 @@ div.moreright {
     right: 0;
 }
 
+iframe{
+    margin-bottom: 50px;
+}
+
 a.left-button, a.right-button {
     text-decoration: none;
     color: rgb(60, 60, 60);
