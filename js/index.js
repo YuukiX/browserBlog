@@ -47,7 +47,7 @@ class Items extends Page{
     render(){
         $.get(`${this.sBase}/items/${this.oItems[this.nCurrentItem].fname}`, (sMarkdown) => {
             $("article#current").append(`
-                <div class="itemImage"><img src="${this.getImageSrc(this.oItems[this.nCurrentItem].specialImage)}" /></div>
+                <div class="itemImage"><img alt"portfolio image"img src="${this.getImageSrc(this.oItems[this.nCurrentItem].specialImage)}"/></div>
             `);
             $("article#current").append(`
                 <div class="markdownItem">${marked(sMarkdown)}</div>
@@ -80,7 +80,7 @@ class Section extends Page {
             `);
             if (this.oOptions.specialImage) {
                 $(`#${this.oOptions.title}`).prepend(`
-                <div class="pageImage"><img src="${this.getImageSrc(this.oOptions.specialImage)}" /></div>
+                <div class="pageImage"><img src="${this.getImageSrc(this.oOptions.specialImage)}" alt=""/></div>
                 `);
             }    
 
