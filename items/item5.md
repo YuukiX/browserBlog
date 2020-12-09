@@ -1,10 +1,13 @@
-# Piano 
-<h2>[2008 - Present]</h2>
-
-<br/>
-<h4> Experience Grade: A- </h4>
+# Skills Ontario Canada 
+<h2>[2019]</h2>
 <br/>
 <p>
-I started learning piano ever since I was in grade 1. I continued to have piano lessons up until around grade 5, but I had still participated playing in school bands and by myself at home. The piano was, and still is, a healthy hobby I like to do. I didn’t enjoy practicing piano for several hours per week, that’s one of the reasons why I quit piano lessons. I do enjoy when I learn songs that I enjoy to play and listen too. Ever since I quit, I learned piano by watching youtube tutorials and occasionally improvising my own chords/notes. I can now play anime and cartoon theme songs such as Pokemon and Gravity Falls! My favorite thing about playing the piano is that I can learn any song I wish to play and even play alongside with friends and family. 
+During my last year in highschool, I got selected to participate in the Skills Ontario Competition at Seneca. I feel so nervous because I’ve never done anything like this (well, competitions in general). I was partnered with a fellow classmate and we entered for 3d animation, which is good because we were both learning how to use Maya. I did not enjoy how we had to read over the rules by ourselves and make 3D models beforehand, since we were both beginners at 3d modeling and animation. However I enjoyed the experience and being able to be part of a team that represented our school. It was fun to see everyone’s animations at the end and it was even nicer to receive medals! My favorite part from this trip was exploring seneca with friends. 
 </p>
-<br/>
+</br>
+
+<h4> Here's a introduction video </h4>
+
+<iframe width="450" height="300"
+src="https://www.youtube.com/embed/1LjKcWeQuO0">
+</iframe>

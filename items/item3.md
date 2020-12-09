@@ -1,13 +1,17 @@
-# Yearbook 
-<h2>[2019]</h2>
-
-<br/>
-<h4> Experience Grade: A </h4>
+# McOuat Partnership 
+<h2>[February 2018 - June 2018]</h2>
 <br/>
 <p>
-During my last year in high school I was part of yearbook, and my friend and I were given the opportunity to design the front and back cover of the yearbook. It was such an honour to work along with the Herff Jones company and it was insightful too. Since we did a good job, our teacher also recommended us to do the graduation booklet as well. 
+During highschool, I was given the opportunity to be a co-op student at [McOuat Partnership](https://www.mcouatpartnership.com/). It was a great experience for me because from there I’ve learned so much about working within a workplace and discovered possibilities working in the field of graphic design. From there I was able to reconfigure and think of what kind of career was right for me. Things I didn’t enjoy were waking up early, starting work from 8:30am in the morning, and feeling the pressure of deadlines from my supervisor. Despite that, I enjoyed small conversations with the staff, learning from them, and feeling accomplished after getting emails with approval from clients. My favourite part from this experience are the skills I've learned and the connections I've made!
+</p>
+<br/>
+<h4>Skills acquired:</h4>
+<p>
 
-Within the yearbook team, all of us worked together  to take pictures, decide themes and layouts, etc. We did not enjoy having to finish everything midway through second semester. There were times scheduling and meeting deadlines were hard but it all worked out in the end. My favorite part of the yearbook was the halloween page. We would have a photoshoot with students and staff in costume and some of them were truly amazing!
+* Adobe Indesign, Photoshop, and Illustrator 
+* Created and designed handouts, eblasts, keymaps, logos, etc.
+* Revised previous works from different clients
+* Emailed and communicated with staff members 
 </p>
 <br/>
 
