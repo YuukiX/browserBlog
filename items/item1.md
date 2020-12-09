@@ -1,10 +1,13 @@
 # Laurier Registration Guide
-<h2>[2020]</h2>
+<h2>[2018]</h2>
 
 <br/>
 <p>
-For our Group Maker Project, we were tasked think of creative ideas to “hack” the traditional cardboard box and create a 3d prototype. Inspired by Samsung’s Out of the Box Competition, we wanted to re-purpose the box into a practical item. 
+For our Design Foundations term project, our group was tasked by our clients ,Lori, Shelagh and Jennifer, to make the Laurier registration process easier for students and find solutions to their initial problems such as...
 
-From brainstorming together as a group over Zoom, We noticed that during the pandemic people stayed indoors and order online more frequently; causing an increase of shipping boxes. We also notice many users use their laptops for work related activites. USing our user research we started ideating and came up with a solution, a DIY Laptop Stand. 
+* Not enough students are using registration resources and tools
+* Repetitively received lots of email and phone questions 
+
+<i>"How might we streamline the process of course registration and reduce student confusion?"</i>
 </p>
 <br/>
