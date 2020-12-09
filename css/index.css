@@ -102,3 +102,9 @@ a.left-button, a.right-button {
 h2{
     font-size: 25px;
 }
+
+.intro{
+    margin: 100px;
+    padding: 18px;
+    text-align: center;
+}
