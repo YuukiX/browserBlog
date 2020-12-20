@@ -38,8 +38,10 @@ Using SketchUp, Elise created a digital 3D model of the laptop stand after it is
 
 <p>​<i>Why the lack of materials?​</i>
 
-Since there's no need for tape or glue, users only need an exacto knife to cut out the pieces. We wanted to minimize the number of materials needed for construction so it can be more accessible. We want to provide users with the opportunity to start making something practical and sustainable, using materials they currently have and repurpose the cardboard box to reduce the waste of shipping boxes during the pandemic. Like in Langley’s, Turners, & Yoxall’s packaging research project (2011), we want to reuse waste materials and influence consumers' alternative waste route options. 
+Since there's no need for tape or glue, users only need an exacto knife to cut out the pieces. We wanted to minimize the number of materials needed for construction so it can be more accessible. We want to provide users with the opportunity to start making something practical and sustainable, using materials they currently have and repurpose the cardboard box to reduce the waste of shipping boxes during the pandemic. Like in Langley’s, Turners, & Yoxall’s packaging research project (2011), we want to reuse waste materials and influence consumers' alternative waste route options.</p> 
 
+<br></br>
 <strong>References</strong>
 
-Langley, J., Turner, N. & Yoxall, A. (2011). Attributes of packaging and influences on waste. Packaging Technology & Science, 24: 161-175. https://doi.org/10.1002/pts.924</p>
+<p>Langley, J., Turner, N. & Yoxall, A. (2011). Attributes of packaging and influences on waste. Packaging Technology & Science, 24: 161-175. https://doi.org/10.1002/pts.924</p>
+<br></br>

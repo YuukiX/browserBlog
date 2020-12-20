@@ -14,8 +14,10 @@ src="https://www.youtube.com/embed/1LjKcWeQuO0">
 
 <h3>My angle</h3>
 
-<p>From this experience I was able to get out of my comfort zone and put my 3D modeling skills to the test, even though I was a beginner. It's important to encourage students like me to gain independence, personal growth, and self-directed learning (Lafrenz & Murray, 2005). From these competitions, students have the opportunity to have exposure to the field/subject and make connections with others. Likewise, those who enter and win those competitions would have the “....satisfaction in accomplishing individual goals to academic growth and development” (Lafrenz & Murray, 2005). Although it was nice to receive a medal, I was happy enough to be acknowledged, and enter the competition with fellow students to represent our school. Moreover, I loved having the opportunity to participate and view works from the other teams; learning from them as well.
+<p>From this experience I was able to get out of my comfort zone and put my 3D modeling skills to the test, even though I was a beginner. It's important to encourage students like me to gain independence, personal growth, and self-directed learning (Lafrenz & Murray, 2005). From these competitions, students have the opportunity to have exposure to the field/subject and make connections with others. Likewise, those who enter and win those competitions would have the “....satisfaction in accomplishing individual goals to academic growth and development” (Lafrenz & Murray, 2005). Although it was nice to receive a medal, I was happy enough to be acknowledged, and enter the competition with fellow students to represent our school. Moreover, I loved having the opportunity to participate and view works from the other teams; learning from them as well.</p>
 
+<br></br>
 <strong>References</strong>
 
-Lafrenz, L.A. & Murray, B. (2005). Fostering Self-Directed Learners Through Competitions. Seneca College of Applied Arts and Technology, 8(3), 1-12. https://files.eric.ed.gov/fulltext/EJ846786.pdf </p>
+<p>Lafrenz, L.A. & Murray, B. (2005). Fostering Self-Directed Learners Through Competitions. Seneca College of Applied Arts and Technology, 8(3), 1-12. https://files.eric.ed.gov/fulltext/EJ846786.pdf </p>
+<br></br>

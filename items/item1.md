@@ -49,3 +49,4 @@ We then created a journey map so that we can visualize the user experience of co
 <strong>References</strong>
 
 <p>Fong, K., & Faude, S. (2018). Timing Is Everything: Late Registration and Stratified Access to School Choice. Sociology of Education, 91(3), 242–262. https://doi.org/10.1177/0038040718785201</p>
+<br></br>
