@@ -37,6 +37,7 @@ Using SketchUp, Elise created a digital 3D model of the laptop stand after it is
 <h3>My angle</h3>
 
 <p>​<i>Why the lack of materials?​</i>
+
 Since there's no need for tape or glue, users only need an exacto knife to cut out the pieces. We wanted to minimize the number of materials needed for construction so it can be more accessible. We want to provide users with the opportunity to start making something practical and sustainable, using materials they currently have and repurpose the cardboard box to reduce the waste of shipping boxes during the pandemic. Like in Langley’s, Turners, & Yoxall’s packaging research project (2011), we want to reuse waste materials and influence consumers' alternative waste route options. 
 
 <strong>References</strong>
