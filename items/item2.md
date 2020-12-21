@@ -9,6 +9,10 @@ From brainstorming together as a group over Zoom, We noticed that during the pan
 </p>
 <br/>
 
+<h3>Meet the Team</h3>
+<p>Elise VanderWindt, Emily Xiao, Olivia Albin, Simrit Dhillon, and Yuki Xu</p>
+<br/>
+
 <h3>Inspiration & Ideation</h3>
 <p>Inspired by Samsung’s Out of the Box Competition, we wanted to repurpose the box into a practical item. We scheduled a zoom call to research and generate ideas. We noticed that because of COVID-19, made people had to stay indoors for extensive amounts of time which led to the uprise of online shopping. Many people, especially students, had to work at home and use their laptop on a daily basis.</p>
 

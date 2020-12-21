@@ -12,6 +12,10 @@ For our Design Foundations term project, our group was tasked by our clients, Lo
 </p>
 <br/>
 
+<h3>Meet Team MOSEEY</h3>
+<p>Mason Wright, Olivia Albin, Simrit Dihillon, Elise Vanderwindt, Emily Xiao, and Yuki Xu</p>
+<br/>
+
 <h2> Process </h2>
 
 <h3>Research</h3>
