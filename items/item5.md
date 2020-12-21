@@ -2,16 +2,15 @@
 <h2>[2019]</h2>
 <br/>
 <p>
-During my last year in highschool, I got selected to participate in the Skills Ontario Competition at Seneca. I feel so nervous because I’ve never done anything like this (well, competitions in general). I was partnered with a fellow classmate and we entered for 3d animation, which is good because we were both learning how to use Maya. It was intimidating to read over the rules by ourselves and make 3D models beforehand, since we were both beginners at 3d modeling and animation. However I enjoyed the experience and being able to be part of a team that represented our school. It was fun to see everyone’s animations at the end and it was even nicer to receive medals! My favorite part from this trip was exploring seneca with friends. 
+During my last year in highschool, I got selected to participate in the <a href="https://www.skillsontario.com/" target="_blank">Skills Ontario Competition at Seneca.</a> I feel so nervous because I’ve never done anything like this (well, competitions in general). I was partnered with a fellow classmate and we entered for 3d animation, which is good because we were both learning how to use Maya. It was intimidating to read over the rules by ourselves and make 3D models beforehand, since we were both beginners at 3d modeling and animation. However I enjoyed the experience and being able to be part of a team that represented our school. It was fun to see everyone’s animations at the end and it was even nicer to receive medals! My favorite part from this trip was exploring seneca with friends. 
 </p>
 </br>
 
-<h3> Here's a introduction video to the Skills Compeition</h3>
+<p>Here's a old photo of my Maya model I used for 3D animation for the Skills Competition</p>
 
-<iframe width="450" height="300" title="skillsCompeitionVid" id="vid" name="CompeitionVid"
-src="https://www.youtube.com/embed/1LjKcWeQuO0">
-<track src="captions_en.vtt" kind="captions" srclang="en" label="english_captions">
-</iframe>
+<img src="img/SkillsCom_MayaModel.png" alt="maya model">
+
+</br>
 
 <h3>My angle</h3>
 
