@@ -13,6 +13,7 @@ From brainstorming together as a group over Zoom, We noticed that during the pan
 <p>Inspired by Samsung’s Out of the Box Competition, we wanted to repurpose the box into a practical item. We scheduled a zoom call to research and generate ideas. We noticed that because of COVID-19, made people had to stay indoors for extensive amounts of time which led to the uprise of online shopping. Many people, especially students, had to work at home and use their laptop on a daily basis.</p>
 
 <i>"What about a cardboard box that can transform into a laptop stand with storage space?"</i>
+
 <img src="img/LaptopStand.png" alt="cardboard laptop stand" style="width:90%">
 
 <h3>Our Users</h3>
@@ -27,10 +28,12 @@ From brainstorming together as a group over Zoom, We noticed that during the pan
 </p>
 
 <h3>Prototyping</h3>
-<p>Together, we came up with the blueprint of the design. The cardboard box would be scored slightly to provide guidelines to let users know what needs to be cut or folded and where the incisions need to be made. The entire stand can be built from just two separate pieces. The small tabs and holes to keep the box together so that no additional materials are needed to construct the laptop stand.
+<p>Together, we came up with the blueprint of the design. The cardboard box would be scored slightly to provide guidelines to let users know what needs to be cut or folded and where the incisions need to be made. The entire stand can be built from just two separate pieces. The small tabs and holes to keep the box together so that no additional materials are needed to construct the laptop stand.</p>
+
 <img src="img/LaptopStandBlueprint.png" alt="blueprint of prototype" style="width:90%">
 
-Using SketchUp, Elise created a digital 3D model of the laptop stand after it is folded. She also created a mock up of what the blueprint could look like on a box. By having the template printed onto the box (either inside or outside the box) we not only repurpose materials but also make it easily accessible for anyone to build it.</p>
+<p>Using SketchUp, Elise created a digital 3D model of the laptop stand after it is folded. She also created a mock up of what the blueprint could look like on a box. By having the template printed onto the box (either inside or outside the box) we not only repurpose materials but also make it easily accessible for anyone to build it.</p>
+
 <img src="img/blueprint on box.png" alt="blueprint on cardboard box" style="width:90%">
 
 
