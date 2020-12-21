@@ -24,12 +24,17 @@ We then created a journey map so that we can visualize the user experience of co
 
 <img src="img/JourneyMap1.png" alt="user journey map" style="width:99%">
 
+
 <h3>Ideation</h3>
 <p>After gathering research data about our users and the issues at hand, we started brainstorming as many ideas as possible. </p>
 
 <img src="img/PostIts.png" alt="sticky notes on a wall" style="width:99%">
 
+<br></br>
+
 <h3>Our solution</h3>
+<p> (1) We added a progress bar and added a 4th step to the course registration guide. (2) We made a filter system that would help students find the courses they need according to campus, program, etc. plus how-to videos for those who are still confused. We also highlighted needed tools and required courses. (3) We made a tab bar on the side of the web page with "Favourites". We included various icons to help break up the text. (4) Students are able to email their "Favourites" so that it would be easy to register later.
+<br></br>
 
 <div class="row">
   <div class="column">
