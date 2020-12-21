@@ -18,7 +18,7 @@ For our Design Foundations term project, our group was tasked by our clients, Lo
 <p>We first started out with research. We conducted interviews with various students and fellow classmates. Many of them had no idea that there was a course registration guide. Many of them had trouble registering their first year courses as the process was confusing and unpleasant.
 We then created a journey map so that we can visualize the user experience of course registration.</p>
 
-<img src="/img/JourneyMap1.png" alt="user journey map" style="width:99%">
+<img src="/img/JourneyMap1.png" alt="user journey map" style="width:99%"/>
 
 <h3>Ideation</h3>
 <p>After gathering research data about our users and the issues at hand, we started brainstorming as many ideas as possible. </p>
