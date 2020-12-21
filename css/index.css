@@ -88,6 +88,8 @@ div.moreright {
 
 iframe{
     margin-bottom: 50px;
+    color: black;
+    padding: 5px;
 }
 
 a.left-button, a.right-button {
@@ -102,6 +104,10 @@ a.left-button, a.right-button {
 
 h2{
     font-size: 25px;
+}
+
+a{
+    color: var(--color3);
 }
 
 .intro{
